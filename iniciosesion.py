@@ -1,5 +1,6 @@
 dayron = "dsotelom"
 password = 1234
+print (type(password))
 
 #Solicitud de datos
 usuario = input ("Usuario: ")
